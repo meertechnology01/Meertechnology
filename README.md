@@ -43,7 +43,6 @@ Feel free to reach out and let’s create something amazing!
 - **GitHub**: [@Meertechnology](https://github.com/Meertechnology)
 - **Portfolio**: [MeerTech.tech](https://meertech.tech)
 
----
+--
 
 ✨ Fun Fact: I love contributing to **community-driven projects** and helping others grow in their development journey! Let's connect and build the future together. ✨
-
